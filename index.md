@@ -9,21 +9,20 @@
 
 <h2> Projects 🚧 </h2>
 
-### [Academies Of Loudoun](https://www.lcps.org/acl)
+### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 
-
-<h3> 👨‍💻 ManTech Scanner Application </h3>
+### [👨‍💻 ManTech Scanner Application](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment.
 
-<h3> 🤖 ManTech Machine Learning </h3>
+### [🤖 ManTech Machine Learning](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 Created a Machine Learning model that predicts app rating based on ManTech app metadata. 
 
 Then used D3.js to create an interactive heatmap on the app metadata.
 
-<h3> ❎ Tic-Tac-Toe AI </h3>
+### [❎ Tic-Tac-Toe AI](https://github.com/MyWorldRules/Tic-Tac-Toe-AI)
 I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using Q-Learning. 
 
-<h3> 🃏 BlackJack AI </h3>
+### [🃏 BlackJack AI](https://github.com/MyWorldRules/BlackjackAI)
 I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using the Monte-Carlo Algorithm. 

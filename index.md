@@ -10,6 +10,7 @@
 <h2> Projects 🚧 </h2>
 <h3> ⚡ Generating Electricity By Walking </h3>
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
+GitHub Repository: https://github.com/MyWorldRules/GenerateElectricityByWalking
 
 <h3> 👨‍💻 ManTech Scanner Application </h3>
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment.

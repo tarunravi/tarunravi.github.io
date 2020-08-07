@@ -1,7 +1,7 @@
 [![Linkedin: tarun-ravi](https://img.shields.io/badge/-Tarun%20Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
-## Languages and Technologies 🛠️
+## Languages and Techdnologies 🛠️
 <img src="https://i.ibb.co/mvF61q6/image.png" alt="bash logo" width="400">
 
 <a name="Projects"></a>

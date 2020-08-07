@@ -7,7 +7,7 @@
 [![Linkedin: tarun-ravi](https://img.shields.io/badge/-Tarun%20Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
-## Languages and Tools
+## Languages and Technologies 🛠️
 | [<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python 3" width="38">](https://www.python.org/)  | [<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" width="38">](https://www.javascript.com/)  | [<img src="https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt="TensorFlow" width="38">](https://www.tensorflow.org/)  |  [<img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="38">](https://numpy.org/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="38">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="38">](https://www.gnu.org/software/bash/)  |
 |---|---|---|---|---|---|
 

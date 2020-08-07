@@ -6,7 +6,10 @@
 
 <h2> Projects 🚧 </h2>
 <h3> ⚡ Generating Electricity By Walking </h3>
-I created a show that captures the mechanical energy produced from each step and converts it into useable electricity.
+I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
+
+<h3> <img src="https://img.icons8.com/bubbles/2x/barcode.png" width="30"> ManTech Scanner Application </h3>
+I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment.
 
 <h3> ❎ Tic-Tac-Toe AI </h3>
 I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using Q-Learning. 

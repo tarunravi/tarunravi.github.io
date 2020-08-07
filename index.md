@@ -7,7 +7,7 @@
 [![Linkedin: tarun-ravi](https://img.shields.io/badge/-Tarun%20Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
-<h2> Projects 🚧 </h2>
+## Projects 🚧
 
 ### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 

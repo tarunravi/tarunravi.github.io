@@ -8,7 +8,7 @@
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
 <h2> Projects 🚧 </h2>
-[Academies Of Loudoun](https://www.lcps.org/acl)
+High School Student at [Academies Of Loudoun](https://www.lcps.org/acl)*
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 

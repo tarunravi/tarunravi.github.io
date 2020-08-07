@@ -8,7 +8,7 @@
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
 <h2> Projects 🚧 </h2>
-** [⚡ Generating Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking) 
+## [⚡ Generating Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking) 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 
 

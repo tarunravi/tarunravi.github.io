@@ -1,4 +1,4 @@
-# Tic Tac Toe AI
+# Tarun Ravi
 In this personal project, I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it.  
 This project has two primary components: Building the Tic Tac Toe game and adding the Tic Tac Toe AI
 

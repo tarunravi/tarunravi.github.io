@@ -4,6 +4,9 @@
 
 *CS Intern at [ManTech](https://www.mantech.com/mantech-welcomes-its-inaugural-class-dfend-summer-interns)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
+[![Linkedin: tarun-ravi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
+[![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
+
 <h2> Projects 🚧 </h2>
 <h3> ⚡ Generating Electricity By Walking </h3>
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.

@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/mvF61q6/image.png" alt="bash logo" width="400">
 
 <a name="Projects"></a>
-## Projects 🚧
+## Projescts 🚧
 
 ### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 

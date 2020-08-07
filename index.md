@@ -11,6 +11,11 @@ I created a shoe that captures the mechanical energy produced from each step and
 <h3> 👨‍💻 ManTech Scanner Application </h3>
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment.
 
+<h3> 👨‍💻 ManTech Machine Learning </h3>
+Created a Machine Learning model that predicts app rating based on ManTech app metadata. 
+
+Then used D3.js to create an interactive heatmap on the app metadata.
+
 <h3> ❎ Tic-Tac-Toe AI </h3>
 I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using Q-Learning. 
 

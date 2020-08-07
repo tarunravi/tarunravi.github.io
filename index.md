@@ -9,7 +9,7 @@
 
 <h2> Projects 🚧 </h2>
 
-<h3> [Academies Of Loudoun](https://www.lcps.org/acl) </h3>
+[Academies Of Loudoun](https://www.lcps.org/acl)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 

@@ -13,3 +13,6 @@ I designed an AI to learn how to play the popular game Tic Tac Toe without any h
 
 <h3> BlackJack AI </h3>
 I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using the Monte-Carlo Algorithm. 
+
+<h3> Tic-Tac-Toe AI </h3>
+I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using Q-Learning. 

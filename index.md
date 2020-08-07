@@ -8,7 +8,7 @@
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
 ## Languages and Technologies 🛠️
-<img src="https://i.ibb.co/mvF61q6/image.png" alt="bash logo" width="500">
+<img src="https://i.ibb.co/mvF61q6/image.png" alt="bash logo" width="400">
 
 ## Projects 🚧
 

@@ -9,11 +9,11 @@
 
 ## Projects 🚧
 
-#### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
+### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 
-#### [👨‍💻 ManTech Scanner Application](https://github.com/MyWorldRules/GenerateElectricityByWalking)
+### [👨‍💻 ManTech Scanner Application](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment.
 
 ### [🤖 ManTech Machine Learning](https://github.com/MyWorldRules/GenerateElectricityByWalking)

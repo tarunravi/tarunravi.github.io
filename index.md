@@ -4,7 +4,7 @@
 
 *CS Intern at [ManTech](https://www.mantech.com/mantech-welcomes-its-inaugural-class-dfend-summer-interns)* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-[![Linkedin: tarun-ravi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
+[![Linkedin: tarun-ravi](https://img.shields.io/badge/-tarun-ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/MyWorldRules?label=follow&style=social)](https://github.com/MyWorldRules)
 
 <h2> Projects 🚧 </h2>

@@ -7,6 +7,8 @@
 <a name="Projects"></a>
 ## Recent Projects 🚧
 
+___
+
 ### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.

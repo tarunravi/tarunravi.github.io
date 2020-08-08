@@ -12,7 +12,7 @@ ___
 
 ___
 
-### [⚡ Generate Electricity By Walking](https://github.com/MyWorldRules/GenerateElectricityByWalking)
+### [⚡ Generate Electricity By Walking](/GenerateElectricityByWalking)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 

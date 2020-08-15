@@ -16,10 +16,10 @@ ___
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity.
 
-### [👨‍💻 ManTech Scanner Application]
+### 👨‍💻 ManTech Scanner Application
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment.
 
-### [🤖 ManTech Machine Learning]
+### 🤖 ManTech Machine Learning
 Created a Machine Learning model that predicts app rating based on ManTech app metadata. 
 
 Then used D3.js to create an interactive heatmap on the app metadata.

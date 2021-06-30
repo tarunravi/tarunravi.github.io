@@ -18,7 +18,7 @@ ___
 
 ___
 <a name="ManTech"></a>
-## 💼 ManTech Internship Public Projets
+## 💼 ManTech Internship Public Projects
 
 ### 📚 ManTech Hilbert Curve Visualization [(Website Demo)](https://tarunravi.tech/hilbertCurve/)
 The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve, I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.

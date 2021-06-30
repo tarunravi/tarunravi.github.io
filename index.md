@@ -1,15 +1,16 @@
-## Languages and Technologies 🛠️
+### Languages and Technologies 🛠️
 ___
-Python: Selenium (Web Scraping), TensorFlow & Scikit-Learn (Machine Learning), NumPy/Pandas (Data Science), Flask (Backend Web development)
+Python: **Selenium** (Web Scraping), **TensorFlow/Scikit-Learn** (Machine Learning), **NumPy/Pandas** (Data Science), **Flask** (Backend Web development)
 
-JavaScript: React (Front-end Web/Mobile development), D3.js (Web data visualization)
+JavaScript: **React** (Front-end Web/Mobile development), **D3.js** (Web data visualization)
 
-Cloud: AWS Solution Architect Certified, Azure Certified
+Cloud: **AWS Solution Architect Certified, Azure Certified**
 
-Terminal: Bash, CMD
+Terminal: **Bash, CMD**
 
+___
 <a name="Projects"></a>
-# Recent Projects 🚧
+### Recent Projects 🚧
 [ManTech Internship Projects](/#ManTech) | [Personal Projects](/#Personal) | [Silly/Fun Projects](/#Silly)
 
 ___
@@ -17,7 +18,7 @@ ___
 ## 💼 ManTech Internship Public Projets
 
 ### 📚 ManTech Hilbert Curve Visualization [(View Visualization)](https://tarunravi.tech/hilbertCurve/)
-The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
+The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve, I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
 
 ### 👨‍💻 ManTech Scanner Application
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment. I used **Python and PyGame** to develop this application.  Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
@@ -29,6 +30,8 @@ Then used **D3.js** to create an interactive heatmap on the app metadata. Source
 
 <a name="Personal"></a>
 ## Personal Projects
+___
+
 ### ♟️ Chess Tracker [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
  As an avid chess player, I wanted to create a website/app to track the game statistics of each of my opponents. I use React for the front-end of the website, then Firebase for the backend. It uses Google user authentication and private user generated data. [Link to source code]https://github.com/tarunravi/chessTracker
 
@@ -44,11 +47,13 @@ I created a shoe that captures the mechanical energy produced from each step and
 
 <a name="Silly"></a>
 ## Silly/Fun Projects
-### ⚡ Robot that attends my Online Classes
-[Video Demo.](https://www.youtube.com/watch?v=ZZ9PRr0rcuQ) After getting permission from my teachers, for the last week of school I created a bot using **Python and Selenium** (Web Scraping framework) to automatically open my classes based on the date/time. In addition the bot listens to what my teacher says, and can respond if the teacher calls my name.
+___
 
-### Robot vs Finger on the App 2 Challenge
-[Video Demo.](https://www.youtube.com/watch?v=2VJTTI9BsIM) I created a robot to automate Finger on the App 2, a popular phone game. I used my computer to control my phone, then I used **Python and Pyautogui** to move the cursor to play the game. 
+### ⚡ Robot that attends my Online Classes [Video Demo.](https://www.youtube.com/watch?v=ZZ9PRr0rcuQ)
+ After getting permission from my teachers, for the last week of school I created a bot using **Python and Selenium** (Web Scraping framework) to automatically open my classes based on the date/time. In addition the bot listens to what my teacher says, and can respond if the teacher calls my name.
 
-### Annoying People With Pi
-[Video Demo](https://www.youtube.com/watch?v=LEBqrb-T1bs). For Pi Day 2021, I created a robot that texts the digits of Pi to all my friends, one digit at a time. I used **Python and Pyautogui** to control the keyboard, then instead of pre-computing the digits of Pi, I wrote out the power series expansion function to calculate the digits live.
+### Robot vs Finger on the App 2 Challenge [Video Demo.](https://www.youtube.com/watch?v=2VJTTI9BsIM)
+I created a robot to automate Finger on the App 2, a popular phone game. I used my computer to control my phone, then I used **Python and Pyautogui** to move the cursor to play the game. 
+
+### Annoying People With Pi [Video Demo](https://www.youtube.com/watch?v=LEBqrb-T1bs)
+For Pi Day 2021, I created a robot that texts the digits of Pi to all my friends, one digit at a time. I used **Python and Pyautogui** to control the keyboard, then instead of pre-computing the digits of Pi, I wrote out the power series expansion function to calculate the digits live.

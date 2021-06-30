@@ -20,13 +20,13 @@ ___
 <a name="ManTech"></a>
 ## 💼 ManTech Internship Public Projets
 
-### 📚 ManTech Hilbert Curve Visualization [(View Visualization)](https://tarunravi.tech/hilbertCurve/)
+### 📚 ManTech Hilbert Curve Visualization [(Website Demo)](https://tarunravi.tech/hilbertCurve/)
 The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve, I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
 
 ### 👨‍💻 ManTech Scanner Application
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment. I used **Python and PyGame** to develop this application.  Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
 
-### 🤖 ManTech Machine Learning [(View Visualization)](https://tarunravi.tech/ManTechPredictingAppRating/)
+### 🤖 ManTech Machine Learning [(Website Demo)](https://tarunravi.tech/ManTechPredictingAppRating/)
 Created a **Machine Learning model** that predicts app rating based on ManTech app metadata. 
 
 Then used **D3.js** to create an interactive heatmap on the app metadata. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.

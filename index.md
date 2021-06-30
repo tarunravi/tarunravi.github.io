@@ -1,6 +1,8 @@
-
+[![Linkedin: tarun-ravi](https://img.shields.io/badge/-Tarun%20Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
+[![GitHub MyWorldRules](https://img.shields.io/github/followers/TarunRavi?label=follow&style=social)](https://github.com/MyWorldRules)
 ### Languages and Technologies 🛠️
 ___
+
 Python: **Selenium** (Web Scraping), **TensorFlow/Scikit-Learn** (Machine Learning), **NumPy/Pandas** (Data Science), **Flask** (Backend Web development)
 
 JavaScript: **React** (Front-end Web/Mobile development), **D3.js** (Web data visualization)

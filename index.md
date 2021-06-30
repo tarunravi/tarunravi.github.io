@@ -1,3 +1,4 @@
+
 ### Languages and Technologies 🛠️
 ___
 Python: **Selenium** (Web Scraping), **TensorFlow/Scikit-Learn** (Machine Learning), **NumPy/Pandas** (Data Science), **Flask** (Backend Web development)
@@ -52,8 +53,8 @@ ___
 ### ⚡ Robot that attends my Online Classes [Video Demo.](https://www.youtube.com/watch?v=ZZ9PRr0rcuQ)
  After getting permission from my teachers, for the last week of school I created a bot using **Python and Selenium** (Web Scraping framework) to automatically open my classes based on the date/time. In addition the bot listens to what my teacher says, and can respond if the teacher calls my name.
 
-### Robot vs Finger on the App 2 Challenge [Video Demo.](https://www.youtube.com/watch?v=2VJTTI9BsIM)
+### ✌ Robot vs Finger on the App 2 Challenge [Video Demo.](https://www.youtube.com/watch?v=2VJTTI9BsIM)
 I created a robot to automate Finger on the App 2, a popular phone game. I used my computer to control my phone, then I used **Python and Pyautogui** to move the cursor to play the game. 
 
-### Annoying People With Pi [Video Demo](https://www.youtube.com/watch?v=LEBqrb-T1bs)
+### 😂 Annoying People With Pi [Video Demo](https://www.youtube.com/watch?v=LEBqrb-T1bs)
 For Pi Day 2021, I created a robot that texts the digits of Pi to all my friends, one digit at a time. I used **Python and Pyautogui** to control the keyboard, then instead of pre-computing the digits of Pi, I wrote out the power series expansion function to calculate the digits live.

@@ -16,7 +16,7 @@ ___
 <a name="ManTech"></a>
 ## 💼 ManTech Internship Public Projets
 
-### 📚 ManTech Hilbert Curve Visualization[(View Visualization)] (https://tarunravi.tech/hilbertCurve/)
+### 📚 ManTech Hilbert Curve Visualization [(View Visualization)](https://tarunravi.tech/hilbertCurve/)
 The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
 
 ### 👨‍💻 ManTech Scanner Application
@@ -29,15 +29,15 @@ Then used **D3.js** to create an interactive heatmap on the app metadata. Source
 
 <a name="Personal"></a>
 ## Personal Projects
-### ♟️ Chess Tracker [(Website Demo)](https://tarunravi.tech/chessTracker/#/).
+### ♟️ Chess Tracker [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
  As an avid chess player, I wanted to create a website/app to track the game statistics of each of my opponents. I use React for the front-end of the website, then Firebase for the backend. It uses Google user authentication and private user generated data. [Link to source code]https://github.com/tarunravi/chessTracker
 
 ### [⚡ Generate Electricity By Walking](/GenerateElectricityByWalking)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity. [Link to source code](https://github.com/tarunravi/GenerateElectricityByWalking)
 
-### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.tech/chessTracker/#/).
-[Video Demo.](https://www.youtube.com/watch?v=OHON6-JC-Xs) I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using **Q-Learning**. [Link to source code]https://github.com/tarunravi/Tic-Tac-Toe-AI
+### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
+[Video Demo.](https://www.youtube.com/watch?v=OHON6-JC-Xs) I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using **Q-Learning**. [Link to source code](https://github.com/tarunravi/Tic-Tac-Toe-AI)
 
 ### [🃏 BlackJack AI](https://github.com/MyWorldRules/BlackjackAI)
 [Video Demo.](https://www.youtube.com/watch?v=VSLcoP5vAMM) I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using the **Monte-Carlo Algorithm.** [Link to source code](https://github.com/MyWorldRules/BlackjackAI)

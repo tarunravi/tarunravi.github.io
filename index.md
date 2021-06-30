@@ -30,7 +30,7 @@ The Hilbert curve is an **advanced machine learning algorithm** that can condens
 ## Machine Learning
 ___
 
-### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
+### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.tech/Tic-Tac-Toe-AI/)
 [Video Demo.](https://www.youtube.com/watch?v=OHON6-JC-Xs) I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using **Q-Learning**. [Link to source code](https://github.com/tarunravi/Tic-Tac-Toe-AI)
 
 ### 🤖 ManTech Machine Learning [(Website Demo)](https://tarunravi.tech/ManTechPredictingAppRating/)

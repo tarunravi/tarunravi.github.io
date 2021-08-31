@@ -46,7 +46,7 @@ I designed an AI to learn how to play the popular game Tic Tac Toe without any h
 ## Engineering/Others
 ___
 
-### ⚡ Generate Electricity By Walking [(Video Demo)](https://youtu.be/c4PtBs9bxEM)
+### ⚡ Generate Electricity By Walking! [(Video Demo)](https://youtu.be/c4PtBs9bxEM)
 
 I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity. [Link to source code](https://tarunravi.tech/GenerateElectricityByWalking/)
 

@@ -20,20 +20,20 @@ ___
 <a name="WebDev"></a>
 ## 💼 Website and App Development
 
-### ♟️ Chess Tracker [(Website Demo)](https://tarunravi.tech/chessTracker/#/)
+### ♟️ Chess Tracker [(Website Demo)](https://tarunravi.com/chessTracker/#/)
  As an avid chess player, I wanted to create a website/app to track the game statistics of each of my opponents. I use **React** for the front-end of the website, then **Firebase** for the backend. It uses **Google user authentication** and **private user generated data**. [Link to source code](https://github.com/tarunravi/chessTracker)
 
-### 📚 ManTech Hilbert Curve Visualization [(Website Demo)](https://tarunravi.tech/hilbertCurve/)
+### 📚 ManTech Hilbert Curve Visualization [(Website Demo)](https://tarunravi.com/hilbertCurve/)
 The Hilbert curve is an **advanced machine learning algorithm** that can condense an n-dimensional set of data into a simple 1 dimensional vector. To learn more about the math behind the hilbert curve, I created an Hilbert Curve Visualization using HTML and JavaScript. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
 
 <a name="ML"></a>
 ## Machine Learning
 ___
 
-### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.tech/Tic-Tac-Toe-AI/)
+### ❎ Tic-Tac-Toe AI [(Website Demo)](https://tarunravi.com/Tic-Tac-Toe-AI/)
 [Video Demo.](https://www.youtube.com/watch?v=OHON6-JC-Xs) I designed an AI to learn how to play the popular game Tic Tac Toe without any humans teaching it using **Q-Learning**. [Link to source code](https://github.com/tarunravi/Tic-Tac-Toe-AI)
 
-### 🤖 ManTech Machine Learning [(Website Demo)](https://tarunravi.tech/ManTechPredictingAppRating/)
+### 🤖 ManTech Machine Learning [(Website Demo)](https://tarunravi.com/ManTechPredictingAppRating/)
 Created a **Machine Learning model** that predicts app rating based on ManTech app metadata. 
 
 Then used **D3.js** to create an interactive heatmap on the app metadata. Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.
@@ -48,7 +48,7 @@ ___
 
 ### ⚡ Generate Electricity By Walking! [(Video Demo)](https://youtu.be/c4PtBs9bxEM)
 
-I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity. [Link to source code](https://tarunravi.tech/GenerateElectricityByWalking/)
+I created a shoe that captures the mechanical energy produced from each step and converts it into useable electricity. [Link to source code](https://tarunravi.com/GenerateElectricityByWalking/)
 
 ### 👨‍💻 ManTech Scanner Application
 I Created an Application that interfaces with existing ManTech technology, and enables employees to scan in equipment and track the location and scan date of every existing equipment. I used **Python and PyGame** to develop this application.  Source code fully coded by Tarun Ravikumar, now proprietary to ManTech.

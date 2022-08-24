@@ -1,6 +1,11 @@
 [![Linkedin: tarun-ravi](https://img.shields.io/badge/-Tarun%20Ravi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-ravi/)](https://www.linkedin.com/in/tarun-ravi/)
 [![GitHub MyWorldRules](https://img.shields.io/github/followers/TarunRavi?label=follow&style=social)](https://github.com/TarunRavi)
+### Experiences 💼 
+
 ### Languages and Technologies 🛠️
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Amazon Software Development Engineer Intern
+
+
 ___
 
 Python: **Selenium** (Web Scraping), **TensorFlow/Scikit-Learn** (Machine Learning), **NumPy/Pandas** (Data Science), **Flask** (Backend Web development)

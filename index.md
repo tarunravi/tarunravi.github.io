@@ -3,8 +3,15 @@
 ### Experiences 💼 
 
 ### Languages and Technologies 🛠️
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Amazon Software Development Engineer Intern
+### <img src="![image](https://user-images.githubusercontent.com/22016922/186538813-ace8bfbc-5022-4499-927c-b1db5b84c831.png)" width="20"> Amazon Software Development Engineer Intern
+* Built a region build status notifier that reduces the readiness check to check dependency status from 24 hours to less than 10 minutes allowing Key Management Service (KMS) employees to hit region build dates faster.
+*	Used the Java Spring framework to initialize a worker object with restricted IAM permissions which accesses notifier webhook keys in KMS Secretes Manager, queries the DynamoDB Table, and utilizes created proxy to send notifications and update the dashboard on the availability/delay of a critical dependency.
 
+### <img src="![image]([https://user-images.githubusercontent.com/22016922/186538813-ace8bfbc-5022-4499-927c-b1db5b84c831.png](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/j7dniilhyq3p2ak4xono))" width="20"> Mantech Software Development Engineer Intern (2 Years)
+* Created a Hilbert Space-Filling Curve Algorithm to condense n-dimensional data into a one-dimensional vector used to scan file binaries for suspicious behavior.
+*	Data displayed on a dynamic website coded with React JS front-end and Flask Python back-end.
+*	Implemented a Machine learning model that predicts app rating based on ManTech app metadata.
+*	Used D3.js and JS to create an online heatmap of all data.
 
 ___
 
